@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/calc-react/static/css/main.b973db72.css",
+    "main.js": "/calc-react/static/js/main.dbc38b23.js",
+    "static/media/timer-icon-bg.gif": "/calc-react/static/media/timer-icon-bg.406c969fcc14f97281d0.gif",
+    "static/media/coatchmark.png": "/calc-react/static/media/coatchmark.65cfb8093d6149791a35.png",
+    "static/media/bmiBoard.svg": "/calc-react/static/media/bmiBoard.971a6257ab2692efcf172d9f51d69166.svg",
+    "index.html": "/calc-react/index.html",
+    "static/media/bmiPin.svg": "/calc-react/static/media/bmiPin.df19dc82ac53e14cfb8ebbd972370bca.svg",
+    "main.b973db72.css.map": "/calc-react/static/css/main.b973db72.css.map",
+    "main.dbc38b23.js.map": "/calc-react/static/js/main.dbc38b23.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b973db72.css",
+    "static/js/main.dbc38b23.js"
+  ]
+}
